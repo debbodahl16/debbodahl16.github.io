@@ -1,0 +1,9 @@
+.container{
+    background: black url("https://pixabay.com/static/uploads/photo/2016/04/30/14/58/background-1363069_960_720.jpg") center center no-repeat;
+   background-size: cover;
+   height: 100%;
+}
+form {
+    text-align: center;
+    margin-top: 5%;
+}
