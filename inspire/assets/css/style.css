@@ -1,0 +1,35 @@
+body{
+
+background-image: url(http://www.w3schools.com/css/img_fjords.jpg);
+background-size: cover;
+}
+#weather{
+
+    float: right;
+    width: 300px;
+    background-color: #b0e0e6;
+    border-style: solid;
+}
+
+#quote{
+ 
+  
+  
+   padding-top: 500px;
+    width: 50%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+background-color: azure;
+}
+#new-todo-form{
+    margin-top: 250px;
+    
+    /*border: 1px solid blue;
+    padding: 10px 0 0 50px;
+    height: 300px;
+    width: 300px;*/
+}
+#todo{
+    color: white;
+
+}
